@@ -1,4 +1,4 @@
-# Azure-gift-shop-website
+# Azure-gift-boutique-shop-website
 
 This the Gift shop website designed using WordPressand deployed it over Microsoft Azure Cloud.
 
